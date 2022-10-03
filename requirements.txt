@@ -2,3 +2,4 @@ sanic
 transformers
 accelerate
 diffusers
+scipy
